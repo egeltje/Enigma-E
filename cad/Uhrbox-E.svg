@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="88mm"
+   height="93mm"
+   viewBox="0 0 88 93"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   sodipodi:docname="Uhrbox-E.svg"
+   inkscape:export-filename="/home/erwin/Desktop/stuff/dcf77.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <defs
+     id="defs2">
+    <rect
+       id="rect1820"
+       height="92.5"
+       width="160"
+       y="22"
+       x="132.5" />
+    <rect
+       x="318"
+       y="117"
+       width="11.5"
+       height="17"
+       id="rect1589" />
+    <rect
+       x="336"
+       y="117"
+       width="3.5"
+       height="8.5"
+       id="rect1583" />
+  </defs>
+  <sodipodi:namedview
+     units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="316.90557"
+     inkscape:cy="98.447684"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="2488"
+     inkscape:window-height="1369"
+     inkscape:window-x="72"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3713"
+       units="mm"
+       spacingx="1"
+       spacingy="1"
+       empspacing="10" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="Cut"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1010"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+       transform="translate(-0.25079,5.04218)"><flowRegion
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+         id="flowRegion1012"><rect
+           style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-opacity:1;"
+           id="rect1014"
+           width="510.23621"
+           height="236.22047"
+           x="330.70865"
+           y="510.23621" /></flowRegion><flowPara
+         id="flowPara1016" /></flowRoot>
+    <text
+       xml:space="preserve"
+       id="text1581"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Blacksword;-inkscape-font-specification:'Blacksword, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect1583);fill:none;fill-opacity:1;stroke:#ff0000;stroke-opacity:1;" />
+    <text
+       xml:space="preserve"
+       id="text1587"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Blacksword;-inkscape-font-specification:'Blacksword, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect1589);fill:none;fill-opacity:1;stroke:#ff0000;stroke-opacity:1;" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Blacksword;-inkscape-font-specification:'Blacksword, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect1820);fill:none;fill-opacity:1;stroke:#ff0000;stroke-opacity:1;"
+       id="text1818"
+       xml:space="preserve" />
+    <circle
+       r="1.7000262"
+       cy="91.75"
+       cx="83.25"
+       id="path2590"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.0999476;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="1.7000262"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.0999476;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle957"
+       cx="4.75"
+       cy="91.75" />
+    <circle
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.0999476;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle959"
+       cx="83.25"
+       cy="175.25"
+       r="1.7000262" />
+    <circle
+       r="1.7000262"
+       cy="175.25"
+       cx="4.75"
+       id="circle961"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.0999476;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="4.9500051"
+       cy="133.5"
+       cx="44"
+       id="path967"
+       style="fill:none;stroke:#ff0000;stroke-width:0.0999901;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Engrave-line"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <text
+       id="text2818"
+       y="80.009995"
+       x="48.259998"
+       style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="80.009995"
+         x="48.259998"
+         id="tspan2816"
+         sodipodi:role="line" /></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Engrave-fill"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <g
+       transform="rotate(48,154.98448,119.99987)"
+       aria-label="M"
+       id="g7158"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       inkscape:transform-center-x="-42.539692"
+       inkscape:transform-center-y="-38.302685" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="EyeCandy"
+     id="layer3"
+     inkscape:groupmode="layer" />
+</svg>
