@@ -18,7 +18,7 @@ year = 2020
 # There are two reflectors, B and C
 def fnReflectorSetting():
     returnstring = ""
-    reflectorList = random.sample('BC', 1)
+    reflectorList = random.sample('ABC', 1)
     returnstring += "{} ".format(reflectorList[0])
     return returnstring
 
@@ -26,9 +26,7 @@ def fnReflectorSetting():
 # There are four rotors, one a/b and three 1 - 8
 def fnRotorSetting():
     returnstring = ""
-    rotorSmallList = random.sample('ab', 1)
-    returnstring = "{} ".format(rotorSmallList[0])
-    rotorList = random.sample(range(1,9), 3)
+    rotorList = random.sample(range(1,6), 3)
     for i in range (len(rotorList)):
         returnstring += "{} ".format(rotorList[i])
     return returnstring
@@ -37,7 +35,7 @@ def fnRotorSetting():
 # Each ring can be shifted internally by a - z amount.
 def fnRingSetting():
     returnstring = ""
-    ringList = random.sample(range(65, 91), 4)
+    ringList = random.sample(range(65, 91), 3)
     for i in range (len(ringList)):
         returnstring += "{} ".format(chr(ringList[i]))
     return returnstring
@@ -74,11 +72,11 @@ def fnIndicatorGroup():
 # Generate key sheet per monthrandom
 for month in range(1, 13):
     print("+-----------------------------------------------------------------------------------------+")
-    print("| Enigma-E Key sheet for *M4* emulation                                                   |")
+    print("| Enigma-E Key sheet for *M3* emulation                                                   |")
     print("+----------+-------------+--------------+-------------------------------+-----------------+")
     print("| Date     | Wheel order | Ring setting | Plugboard setting             | Indicator group |")
     for day in range(1, (calendar.monthrange(year, month)[1] + 1)):
         print("+----------+-------------+--------------+-------------------------------+-----------------+")
-        print("| %04d%02d%02d | %s  %s|      %s| %s| %s|" %(year, month, day, fnReflectorSetting(), fnRotorSetting(), fnRingSetting(), fnPlugboardSetting(), fnIndicatorGroup()))
+        print("| %04d%02d%02d | %s    %s|        %s| %s| %s|" %(year, month, day, fnReflectorSetting(), fnRotorSetting(), fnRingSetting(), fnPlugboardSetting(), fnIndicatorGroup()))
     print("+----------+-------------+--------------+-------------------------------+-----------------+")
-    print()
+    print("")
