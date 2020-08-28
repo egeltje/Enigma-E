@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Uhrbox-E-plugboard)(type KiCad)(uri ${KIPRJMOD}/Uhrbox-E-plugboard.pretty)(options "")(descr ""))
+)
