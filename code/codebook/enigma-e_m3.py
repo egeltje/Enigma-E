@@ -18,7 +18,7 @@ year = 2020
 # There are two reflectors, B and C
 def fnReflectorSetting():
     returnstring = ""
-    reflectorList = random.sample('ABC', 1)
+    reflectorList = random.sample('BC', 1)
     returnstring += "{} ".format(reflectorList[0])
     return returnstring
 
