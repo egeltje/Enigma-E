@@ -37,7 +37,7 @@ def fnRotorSetting():
 # Each ring can be shifted internally by a - z amount.
 def fnRingSetting():
     returnstring = ""
-    ringList = random.sample(range(65, 91), 4)
+    ringList = random.sample(range(ord('A'), ord('Z')), 4)
     for i in range (len(ringList)):
         returnstring += "{} ".format(chr(ringList[i]))
     return returnstring
@@ -47,8 +47,8 @@ def fnRingSetting():
 def fnPlugboardSetting():
     success = 0
     while success == 0:
-        plugboardListCharL = random.sample(range(65,91), 10)
-        plugboardListCharR = random.sample(range(65,91), 10)
+        plugboardListCharL = random.sample(range(ord('A'), ord('Z')), 10)
+        plugboardListCharR = random.sample(range(ord('A'), ord('Z')), 10)
         success = 1
         for i in range (len(plugboardListCharL)):
             for j in range (len(plugboardListCharR)):
@@ -65,7 +65,7 @@ def fnIndicatorGroup():
     returnstring = ""
     indicatorGroup = ["","","",""]
     for i in range(0, 4):
-        indicatorGroup = random.sample(range(65,91), 3)
+        indicatorGroup = random.sample(range(ord('A'), ord('Z')), 3)
         for j in range(0, 3):
             returnstring += "{}".format(chr(indicatorGroup[j]))
         returnstring += " "
@@ -81,4 +81,4 @@ for month in range(1, 13):
         print("+----------+-------------+--------------+-------------------------------+-----------------+")
         print("| %04d%02d%02d | %s  %s|      %s| %s| %s|" %(year, month, day, fnReflectorSetting(), fnRotorSetting(), fnRingSetting(), fnPlugboardSetting(), fnIndicatorGroup()))
     print("+----------+-------------+--------------+-------------------------------+-----------------+")
-    print()
+    print("")
