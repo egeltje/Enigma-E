@@ -311,7 +311,7 @@ U 1 1 5F4B2FE5
 P 1300 2900
 F 0 "J1" H 1192 3985 50  0000 C CNN
 F 1 "Conn_01x20_Female" H 1192 3894 50  0000 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x20_P2.00mm_Vertical" H 1300 2900 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" H 1300 2900 50  0001 C CNN
 F 3 "~" H 1300 2900 50  0001 C CNN
 	1    1300 2900
 	-1   0    0    -1  
