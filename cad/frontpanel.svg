@@ -11,7 +11,7 @@
    inkscape:export-xdpi="600"
    inkscape:export-filename="/home/erwin/Desktop/stuff/dcf77.png"
    sodipodi:docname="frontpanel.svg"
-   inkscape:version="1.0 (b51213c273, 2020-08-10)"
+   inkscape:version="1.0.1 (1.0.1+r73)"
    id="svg8"
    version="1.1"
    viewBox="0 0 297 205"
@@ -60,16 +60,16 @@
      inkscape:document-rotation="0"
      inkscape:snap-global="true"
      inkscape:window-maximized="1"
-     inkscape:window-y="34"
-     inkscape:window-x="1032"
-     inkscape:window-height="1009"
-     inkscape:window-width="1848"
+     inkscape:window-y="27"
+     inkscape:window-x="72"
+     inkscape:window-height="1376"
+     inkscape:window-width="2488"
      showgrid="true"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="557.68173"
-     inkscape:cx="492.98669"
-     inkscape:zoom="0.7071068"
+     inkscape:cy="655.92134"
+     inkscape:cx="889.58167"
+     inkscape:zoom="2.5799574"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -481,22 +481,6 @@
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.104131;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        r="6.2479343" />
     <circle
-       r="1.5"
-       cy="261"
-       cx="245.50027"
-       id="path1432"
-       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       r="1.5"
-       cy="261"
-       cx="271.50031"
-       id="path1434"
-       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 249,256.5 c 0,0 0,-1 1,-1 1,0 17.00001,0 17.00001,0 0,0 0.99999,0 0.99999,1 0,1 -0.99999,9 -0.99999,9 0,0 0,1 -1.00002,1 C 265,266.5 251,266.5 251,266.5 c 0,0 -1,0 -1,-1 0,-1 -1,-9 -1,-9 z"
-       id="path1350" />
-    <circle
        r="1.7002082"
        cy="114.49521"
        cx="7.9952083"
@@ -541,7 +525,7 @@
          id="tspan1355"
          x="210"
          y="207"
-         style="stroke-width:0.264583"></tspan><tspan
+         style="stroke-width:0.264583" /><tspan
          sodipodi:role="line"
          x="210"
          y="211.40971"
@@ -553,6 +537,11 @@
        cx="273"
        cy="240.5"
        r="2.5081968" />
+    <path
+       id="path1435"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.393566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 924.09375 633.07812 A 23.61424 23.61424 0 0 0 901.30664 650.50391 L 901.30664 662.87891 A 23.61424 23.61424 0 0 0 924.09375 680.30664 A 23.61424 23.61424 0 0 0 946.88281 662.88086 L 946.88281 650.50391 A 23.61424 23.61424 0 0 0 924.09375 633.07812 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,87)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1140,10 +1129,6 @@
        id="path1481"
        d="m 208.50058,173.5 h -6 v -7"
        style="fill:none;stroke:#0000ff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    <path
-       id="path1485"
-       d="m 241.50058,173.5 h -11 v -7"
-       style="fill:none;stroke:#0000ff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
     <g
        aria-label="sound"
        id="text1378"
@@ -1228,6 +1213,10 @@
          y="129"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'MS 33558';-inkscape-font-specification:'MS 33558, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          id="tspan1447" /></text>
+    <path
+       id="path1371"
+       d="m 236.5,173.5 h -6 v -7"
+       style="fill:none;stroke:#0000ff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
