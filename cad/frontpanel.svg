@@ -65,11 +65,11 @@
      inkscape:window-height="1376"
      inkscape:window-width="2488"
      showgrid="true"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="250.18341"
-     inkscape:cx="429.32653"
-     inkscape:zoom="1.664045"
+     inkscape:cy="660.51308"
+     inkscape:cx="897.72353"
+     inkscape:zoom="6.0714524"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -475,12 +475,6 @@
        id="circle1403"
        style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
-       cy="260.75"
-       cx="216.75031"
-       id="path1428"
-       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.104131;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       r="6.2479343" />
-    <circle
        r="1.7002082"
        cy="114.49521"
        cx="7.9952083"
@@ -549,6 +543,10 @@
        x="0"
        y="87"
        ry="1.0000006" />
+    <path
+       id="path1385"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 222.3999,258.54187 a 6.3,6.3 0 0 0 -5.8999,-4.09174 6.3,6.3 0 0 0 -5.8999,4.09019 v 4.41936 a 6.3,6.3 0 0 0 5.8999,4.09019 6.3,6.3 0 0 0 5.8999,-4.09174 z" />
   </g>
   <g
      inkscape:groupmode="layer"
